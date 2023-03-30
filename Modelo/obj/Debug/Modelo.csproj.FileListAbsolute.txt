@@ -1,0 +1,35 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Modelo\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Modelo\obj\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\Modelo\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\Modelo\obj\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\Modelo\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\Modelo\obj\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\Modelo\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\Modelo\obj\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\Modelo\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\Modelo\obj\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\Modelo\obj\Debug\Modelo.pdb

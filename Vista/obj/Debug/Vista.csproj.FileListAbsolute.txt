@@ -1,0 +1,70 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\obj\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\obj\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\DesafioFinal.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\Presentador.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\Presentador.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\Presentador.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\DesafioFinal\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\DesafioFinal.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\Presentador.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\Presentador.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\Presentador.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\obj\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Backup2 - usanding\DesafioFinal\obj\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\DesafioFinal.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\Presentador.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\Presentador.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\Presentador.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\obj\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo\DesafioFinal\obj\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\DesafioFinal.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\Presentador.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\Presentador.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\Presentador.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\obj\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desarrollo - copia (2)\DesafioFinal\obj\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\obj\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\obj\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\DesafioFinal.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\DesafioFinal.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\DesafioFinal.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\Presentador.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\Modelo.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\Presentador.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\Presentador.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\Modelo.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\bin\Debug\Modelo.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Avanti\DesafioFinal\obj\Debug\Vista.csproj.CopyComplete
